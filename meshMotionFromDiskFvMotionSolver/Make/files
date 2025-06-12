@@ -1,3 +1,0 @@
-meshMotionFromDiskFvMotionSolver.C
-
-LIB = $(FOAM_USER_LIBBIN)/libmeshMotionFromDiskFvMotionSolver
